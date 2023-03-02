@@ -1,8 +1,4 @@
-### Olá! sou o Bruno Nagano 👋
-
-<h1 align="center">Olá, eu sou o Bruno Nagano!👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+### Olá, eu sou o Bruno Nagano!👋
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bnagano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bnagano" height="30" width="40" /></a>
