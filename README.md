@@ -30,3 +30,6 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+
+<h3 align="left">Portifolio:</h3>
+<a href="https://bnagano.github.io/portifolio/">
